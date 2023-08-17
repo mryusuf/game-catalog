@@ -30,9 +30,9 @@ GameCatalog                     # Root
 
 ## Screenshots
 
-<img alt="GameCatalog-Home-mryusuf" src="https://raw.githubusercontent.com/mryusuf/game-catalog/main/screenshots/home.png" height="350>
+<img alt="GameCatalog-Home-mryusuf" src="https://raw.githubusercontent.com/mryusuf/game-catalog/main/screenshots/home.png" height="350">
 
-<img alt="GameCatalog-Detail-mryusuf" src="https://raw.githubusercontent.com/mryusuf/game-catalog/main/screenshots/detail.png" height="350>
+<img alt="GameCatalog-Detail-mryusuf" src="https://raw.githubusercontent.com/mryusuf/game-catalog/main/screenshots/detail.png" height="350">
 
 
 ### Built with
